@@ -1,4 +1,3 @@
 <h1 align="center">Hi, I'm Pratik</h1>
-![CyberPratik](./title.jpeg)
-![SS of home page](./pratik.jpg)
 
+![CyberPratik](https://github.com/user-attachments/assets/d044ae24-c89b-484a-b39a-bcc640eeac17)
